@@ -818,9 +818,6 @@ section #title .credits.left {
 section #title .credits.right {
   float: right;
 }
-.right {
-  text-align: right;
-}
 
 @media print, screen and (max-width: 720px) {
   #title .credits {
